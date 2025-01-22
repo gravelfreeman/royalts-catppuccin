@@ -1,8 +1,8 @@
 # royalts-catppuccin
 
-Trying to replace Termius because of their abusive monthly pricing mafia, got me in the route of RoyalTs and really wanted to get Catppuccin for it. Hope this makes someone happy out there.
+I decided to replace Termius due to their excessive monthly pricing and started exploring RoyalTS. I was particularly keen on getting the Catppuccin theme for it. Hopefully, this helps someone out there!
 
-* Currently only supporting Latté flavour. Feel free to submit a PR with the missing flavours.
+[!] Currently only supporting Latté flavour. Feel free to submit a PR with the missing flavours.
 
 ![image](https://github.com/user-attachments/assets/793b1518-8d2c-4fe1-9e4c-ea2a50fe504e)
 
