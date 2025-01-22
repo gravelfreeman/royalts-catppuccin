@@ -28,4 +28,4 @@ Import the *catppuccin.rtcp* color profile and press OK.
 
 ### Powershell Colors
 
-I'm currently working on the Powershell and WSL colors for Windows. Unfortunately it's poorly documented. The best way is to use the new Windows Terminal but unfortunately I wasn't able to add it in RoyalTs. I hope they'll support this in the future because the older PowerShell versions are getting less and less supported.
+I'm currently working on customizing the colors for PowerShell and WSL on Windows. Unfortunately, the process is poorly documented. The best approach is to use the new Windows Terminal, but I couldn't manage to integrate it with RoyalTS. I hope they'll support this in the future, as older PowerShell versions are becoming increasingly unsupported.
