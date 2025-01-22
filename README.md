@@ -1,5 +1,9 @@
 # royalts-catppuccin
 
+Trying to replace Termius because of their abusive monthly pricing mafia, got me in the route of RoyalTs and really wanted to get Catppuccin for it. Hope this makes someone happy out there.
+
+* Currently only supporting Latté flavour. Feel free to submit a PR with the missing flavours.
+
 ![image](https://github.com/user-attachments/assets/793b1518-8d2c-4fe1-9e4c-ea2a50fe504e)
 
 ### Installation
@@ -21,3 +25,7 @@ Notice the message and press apply to overwrite your current theme configuration
 4. Click on Palette > Manage > Import
 
 Import the *catppuccin.rtcp* color profile and press OK.
+
+### Powershell Colors
+
+I'm currently working on the Powershell and WSL colors for Windows. Unfortunately it's poorly documented. The best way is to use the new Windows Terminal but unfortunately I wasn't able to add it in RoyalTs. I hope they'll support this in the future because the older PowerShell versions are getting less and less supported.
