@@ -14,7 +14,7 @@
     },
     {
       "name": "Cursor Background",
-      "color": "#8BD5CA",
+      "color": "#A6DA95",
       "terminalMapping": "cursorBackground"
     },
     {
@@ -103,5 +103,5 @@
       "terminalMapping": "ansiBrightWhite"
     }
   ],
-  "paletteName": "catppuccin-macchiato"
+  "paletteName": "catppucin-macchiato"
 }

@@ -14,7 +14,7 @@
     },
     {
       "name": "Cursor Background",
-      "color": "#94E2D5",
+      "color": "#A6E3A1",
       "terminalMapping": "cursorBackground"
     },
     {
