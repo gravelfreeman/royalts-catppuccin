@@ -29,27 +29,27 @@
     },
     {
       "name": "Red",
-      "color": "#E78284",
+      "color": "#D20F39",
       "terminalMapping": "ansiRed"
     },
     {
       "name": "Green",
-      "color": "#A6D189",
+      "color": "#40A02B",
       "terminalMapping": "ansiGreen"
     },
     {
       "name": "Yellow",
-      "color": "#E5C890",
+      "color": "#DF8E1D",
       "terminalMapping": "ansiYellow"
     },
     {
       "name": "Blue",
-      "color": "#8CAAEE",
+      "color": "#1E66F5",
       "terminalMapping": "ansiBlue"
     },
     {
       "name": "Magenta",
-      "color": "#CA9EE6",
+      "color": "#8839EF",
       "terminalMapping": "ansiMagenta"
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "name": "Bright Red",
-      "color": "#EA999C",
+      "color": "#E64553",
       "terminalMapping": "ansiBrightRed"
     },
     {
