@@ -41,7 +41,3 @@ Notice the message and press apply to overwrite your current theme configuration
 4. Click on Palette > Manage > Import
 
 Import coressponding *catppuccin-latte.rtcp*, *catppuccin-frappe.rtcp*, *catppuccin-macchiato.rtcp*, or *catppuccin-mocha.rtcp* color profile and press OK.
-
-### Powershell Colors
-
-I'm currently working on customizing the colors for PowerShell and WSL on Windows. Unfortunately, the process is poorly documented. The best approach is to use the new Windows Terminal, but I couldn't manage to integrate it with RoyalTS. I hope they'll support this in the future, as older PowerShell versions are becoming increasingly unsupported.
