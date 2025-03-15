@@ -14,7 +14,7 @@
     },
     {
       "name": "Cursor Background",
-      "color": "#A6DA95",
+      "color": "#8BD5CA",
       "terminalMapping": "cursorBackground"
     },
     {
@@ -69,7 +69,7 @@
     },
     {
       "name": "Bright Red",
-      "color": "#ED8796",
+      "color": "#EE99A0",
       "terminalMapping": "ansiBrightRed"
     },
     {
