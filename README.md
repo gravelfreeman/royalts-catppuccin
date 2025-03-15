@@ -38,7 +38,7 @@
 	<img src="./assets/mocha_full.webp" />
 </details>
 
-### Installation
+## Usage
 
 1. Copy one of the below theme links:
 
