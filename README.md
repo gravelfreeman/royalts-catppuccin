@@ -42,7 +42,7 @@ Notice the message and press apply to overwrite your current theme configuration
 
 4. Click on Palette > Manage > Import
 
-Import the *catppuccin.rtcp* color profile and press OK.
+Import coressponding *catppuccin-latte.rtcp*,*catppuccin-frappe.rtcp*,*catppuccin-macchiato.rtcp*,*catppuccin-mocha.rtcp* color profile and press OK.
 
 ### Powershell Colors
 
