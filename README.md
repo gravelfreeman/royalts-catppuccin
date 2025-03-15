@@ -1,10 +1,41 @@
-# royalts-catppuccin
+<h3 align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	Catppuccin for <a href="https://www.royalapps.com/ts/win/features">RoyalTS</a>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
-I decided to replace Termius due to their excessive monthly pricing and started exploring RoyalTS. I was particularly keen on getting the Catppuccin theme for it. Hopefully, this helps someone out there!
+<p align="center">
+	<a href="https://github.com/gravelfreeman/royalts-catppuccin/stargazers"><img src="https://img.shields.io/github/stars/gravelfreeman/royalts-catppuccin?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/gravelfreeman/royalts-catppuccin/issues"><img src="https://img.shields.io/github/issues/gravelfreeman/royalts-catppuccin?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/gravelfreeman/royalts-catppuccin/contributors"><img src="https://img.shields.io/github/contributors/gravelfreeman/royalts-catppuccin?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
 
-![image](rts_colors.png)
+<p align="center">
+	<img src="./assets/preview_interface.webp" />
+</p>
 
-![image](term_colors.png)
+<p align="center">
+	<img src="./assets/preview_terminal.webp" />
+</p>
+
+## Previews
+
+<details>
+<summary>🌻 Latte</summary>
+	<img src="./assets/latte_full.webp" />
+<details>
+<summary>🪴 Frappé</summary>
+	<img src="./assets/frappe_full.webp" />
+</details>
+<details>
+<summary>🌺 Macchiato</summary>
+	<img src="./assets/macchiato_full.webp" />	
+</details>
+<details>
+<summary>🌿 Mocha</summary>
+	<img src="./assets/mocha_full.webp" />
+</details>
 
 ### Installation
 
@@ -34,7 +65,7 @@ https://royalapps.com/colorscheme?CompactUserInterface=2&UseRoundedCorners=2&Acc
 
 Notice the message and press apply to overwrite your current theme configuration.
 
-![image](https://github.com/user-attachments/assets/3fec16de-c81c-4b0d-ace4-e16b4434209c)
+![image](assets/tooltip.webp)
 
 3. Right click an SSH connection > Properties > Colors
 
@@ -42,6 +73,21 @@ Notice the message and press apply to overwrite your current theme configuration
 
 Import coressponding *catppuccin-latte.rtcp*, *catppuccin-frappe.rtcp*, *catppuccin-macchiato.rtcp*, or *catppuccin-mocha.rtcp* color profile and press OK.
 
-### Powershell Colors
+## 💝 Thanks to
 
-I'm currently working on customizing the colors for PowerShell and WSL on Windows. Unfortunately, the process is poorly documented. The best approach is to use the new Windows Terminal, but I couldn't manage to integrate it with RoyalTS. I hope they'll support this in the future, as older PowerShell versions are becoming increasingly unsupported.
+- [grokdesigns](https://github.com/grokdesigns)
+- [gravelfreeman](https://github.com/gravelfreeman)
+
+&nbsp;
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
+<p align="center">
+	Copyright &copy; 2021-present <a href="https://github.com/catppuccin" target="_blank">Catppuccin Org</a>
+</p>
+
+<p align="center">
+	<a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
