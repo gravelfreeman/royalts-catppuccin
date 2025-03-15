@@ -72,7 +72,7 @@ Notice the message and press apply to overwrite your current theme configuration
 
 4. Click on Palette > Manage > Import
 
-Import coressponding *catppuccin-latte.rtcp*, *catppuccin-frappe.rtcp*, *catppuccin-macchiato.rtcp*, or *catppuccin-mocha.rtcp* color profile and press OK.
+Import corresponding *[catppuccin-latte.rtcp](/assets/catppuccin-latte.rtcp)*, *[catppuccin-frappe.rtcp](/assets/catppuccin-frappe.rtcp)*, *[catppuccin-macchiato.rtcp](/assets/catppuccin-macchiato.rtcp)*, or *[catppuccin-mocha.rtcp](/assets/catppuccin-mocha.rtcp)* color profile and press OK.
 
 ## 💝 Thanks to
 
