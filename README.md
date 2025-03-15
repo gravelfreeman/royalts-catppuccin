@@ -6,6 +6,8 @@ I decided to replace Termius due to their excessive monthly pricing and started 
 
 ![image](rts_colors.png)
 
+![image](term_colors.png)
+
 ### Installation
 
 1. Copy one of the below theme links:
