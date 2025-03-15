@@ -2,8 +2,6 @@
 
 I decided to replace Termius due to their excessive monthly pricing and started exploring RoyalTS. I was particularly keen on getting the Catppuccin theme for it. Hopefully, this helps someone out there!
 
-[!] Currently only supporting Latté flavour. Feel free to submit a PR with the missing flavours.
-
 ![image](rts_colors.png)
 
 ![image](term_colors.png)
