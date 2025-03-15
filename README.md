@@ -4,7 +4,7 @@ I decided to replace Termius due to their excessive monthly pricing and started 
 
 [!] Currently only supporting Latté flavour. Feel free to submit a PR with the missing flavours.
 
-![image](https://github.com/user-attachments/assets/793b1518-8d2c-4fe1-9e4c-ea2a50fe504e)
+![image](rts_colors.png)
 
 ### Installation
 
