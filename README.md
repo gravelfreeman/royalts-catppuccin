@@ -60,6 +60,7 @@ Royal TS Interface Theme (not compatible with Royal TSX)
 
 <blockquote>
 <br/>
+
 1. Copy one of the below theme links:
 </br>
 <details>
@@ -91,8 +92,6 @@ https://royalapps.com/colorscheme?CompactUserInterface=2&UseRoundedCorners=2&Acc
 https://royalapps.com/colorscheme?CompactUserInterface=2&UseRoundedCorners=2&AccentColor=2&AccentBaseColor=CBA6F7&BackgroundP200=11111B&BackgroundP100=181825&Background0=1E1E2E&BackgroundM100=313244&BackgroundM200=45475A&Foreground100=CDD6F4&Foreground50=A6ADC8&Foreground25=9399B2&EditBackground0=11111B&EditBackgroundM50=313244&EditBackgroundM100=45475A&EditBackgroundM200=313244&EditBackgroundM300=6C7086&EditForeground100=CDD6F4&EditForeground50=A6ADC8&EditForeground25=9399B2&Line100=6C7086&Line50=313244&Line25=6C7086&LineGradient100C1=1E1E2E&LineGradient100C2=9399B2&LineGradient50C1=1E1E2E&LineGradient50C2=45475A&PrimaryBackgroundP100=313244&PrimaryBackground0=CBA6F7&PrimaryBackgroundM100=CBA6F7&PrimaryBackgroundM200=CBA6F7&PrimaryForeground100=1E1E2E&PrimaryForeground25=1E1E2E&SecondaryBackground0=11111B&SecondaryBackgroundM100=11111B&SecondaryBackgroundM200=45475A&SecondaryForeground100=CDD6F4&SecondaryForeground25=A6ADC8&Red=CDD6F4&Green=CDD6F4&Blue=CBA6F7&Yellow=CDD6F4&Black=CDD6F4&White=11111B&Gray=CDD6F4
 ```
 </details>
-
-</br>
 
 2. Navigate to Royal TS > Options > Appearances
 
