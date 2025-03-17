@@ -1,107 +1,118 @@
+---
+whiskers:
+  version: 2.5.1
+  matrix:
+    - variant: ["generated-themes"]
+    - flavor
+  filename: "{{variant}}/catppuccin-royalts-terminal-{{flavor.identifier}}.rtcp"
+---
+
+{%- set palette = flavor.colors -%}
+
 {
   "userInterface": false,
   "terminal": true,
   "colors": [
     {
       "name": "Foreground",
-      "color": "#C6D0F5",
+      "color": "#{{ palette.text.hex }}",
       "terminalMapping": "foreground"
     },
     {
       "name": "Background",
-      "color": "#303446",
+      "color": "#{{ palette.base.hex }}",
       "terminalMapping": "background"
     },
     {
       "name": "Cursor Background",
-      "color": "#81C8BE",
+      "color": "#{{ palette.teal.hex }}",
       "terminalMapping": "cursorBackground"
     },
     {
       "name": "Cursor Foreground",
-      "color": "#303446",
+      "color": "#{{ palette.base.hex }}",
       "terminalMapping": "cursorForeground"
     },
     {
       "name": "Black",
-      "color": "#303446",
+      "color": "#{{ palette.base.hex }}",
       "terminalMapping": "ansiBlack"
     },
     {
       "name": "Red",
-      "color": "#E78284",
+      "color": "#{{ palette.red.hex }}",
       "terminalMapping": "ansiRed"
     },
     {
       "name": "Green",
-      "color": "#A6D189",
+      "color": "#{{ palette.green.hex }}",
       "terminalMapping": "ansiGreen"
     },
     {
       "name": "Yellow",
-      "color": "#E5C890",
+      "color": "#{{ palette.yellow.hex }}",
       "terminalMapping": "ansiYellow"
     },
     {
       "name": "Blue",
-      "color": "#8CAAEE",
+      "color": "#{{ palette.blue.hex }}",
       "terminalMapping": "ansiBlue"
     },
     {
       "name": "Magenta",
-      "color": "#CA9EE6",
+      "color": "#{{ palette.mauve.hex }}",
       "terminalMapping": "ansiMagenta"
     },
     {
       "name": "Cyan",
-      "color": "#85C1DC",
+      "color": "#{{ palette.sky.hex }}",
       "terminalMapping": "ansiCyan"
     },
     {
       "name": "White",
-      "color": "#C6D0F5",
+      "color": "#{{ palette.text.hex }}",
       "terminalMapping": "ansiWhite"
     },
     {
       "name": "Bright Black",
-      "color": "#303446",
+      "color": "#{{ palette.base.hex }}",
       "terminalMapping": "ansiBrightBlack"
     },
     {
       "name": "Bright Red",
-      "color": "#EA999C",
+      "color": "#{{ palette.maroon.hex }}",
       "terminalMapping": "ansiBrightRed"
     },
     {
       "name": "Bright Green",
-      "color": "#81C8BE",
+      "color": "#{{ palette.teal.hex }}",
       "terminalMapping": "ansiBrightGreen"
     },
     {
       "name": "Bright Yellow",
-      "color": "#EF9F76",
+      "color": "#{{ palette.peach.hex }}",
       "terminalMapping": "ansiBrightYellow"
     },
     {
       "name": "Bright Blue",
-      "color": "#85C1DC",
+      "color": "#{{ palette.lavender.hex }}",
       "terminalMapping": "ansiBrightBlue"
     },
     {
       "name": "Bright Magenta",
-      "color": "#F4B8E4",
+      "color": "#{{ palette.pink.hex }}",
       "terminalMapping": "ansiBrightMagenta"
     },
     {
       "name": "Bright Cyan",
-      "color": "#99D1DB",
+      "color": "#{{ palette.sapphire.hex }}",
       "terminalMapping": "ansiBrightCyan"
     },
     {
       "name": "Bright White",
-      "color": "#C6D0F5",
+      "color": "#{{ palette.text.hex }}",
       "terminalMapping": "ansiBrightWhite"
     }
   ],
-  "paletteName": "catppuccin-frappe"
+  "paletteName": "catppuccin-{{ flavor.identifier }}"
 }
