@@ -64,8 +64,6 @@ Royal TS Interface Theme (not compatible with Royal TSX)
 1. Copy one of the theme URLs below:
 
 <!--MIMIC_START-->
-HELLO FROM GITHUB ACTIONS 
-
 <details>
     <summary>🌻 Latte</summary>
 
