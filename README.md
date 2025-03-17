@@ -55,7 +55,7 @@ Royal TS Terminal Theme
 </blockquote>
 <br/>
 
-Royal TS Interface Theme (not compatible with Royal TSX)
+Royal TS/X Interface Theme (not compatible with Royal TSX)
 <br/>
 
 <blockquote>
