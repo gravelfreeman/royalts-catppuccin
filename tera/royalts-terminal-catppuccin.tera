@@ -2,9 +2,9 @@
 whiskers:
   version: 2.5.1
   matrix:
-    - variant: ["generated-terminal-themes"]
+    - variant: ["generated-themes"]
     - flavor
-  filename: "{{variant}}/{{flavor.identifier}}.rtcp"
+  filename: "{{variant}}/catppuccin-royalts-terminal-{{flavor.identifier}}.rtcp"
 ---
 
 {%- set palette = flavor.colors -%}
