@@ -61,7 +61,7 @@ Royal TS Interface Theme (not compatible with Royal TSX)
 <blockquote>
 <br/>
 
-1. Copy one of the below theme links:
+1. Copy one of the below theme URLs:
 
 <details>
     <summary>🌻 Latte</summary>
