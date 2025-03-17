@@ -2,7 +2,7 @@ name: Markdown Mimic - grokdesigns
 on: 
   push:
     branches:
-      - main                                                              #Branch that will trigger action on new push.
+      - devgrokdesigns                                                              #Branch that will trigger action on new push.
   workflow_dispatch:
 jobs:
   Markdown-Mimic:
@@ -15,4 +15,4 @@ jobs:
           REPOSITORY : 'royalts-catppuccin'                               #Repository the action is running on.
           SOURCE : './generated-themes/royalts-interface-urls.md'         #File where you put changing content.
           TARGET : './README.md'                                          #Target file that will have content inserted.
-          BRANCH: 'main'                                                  #Branch containing your files.
+          BRANCH: 'devgrokdesigns'                                                  #Branch containing your files.
