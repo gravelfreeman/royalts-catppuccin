@@ -1,7 +1,3 @@
-################ Catppuccin for Royal TS ################
-# from github.com/grokdesigns, github.com/gravelfreeman #
-#########################################################
-
 {
   "userInterface": false,
   "terminal": true,
