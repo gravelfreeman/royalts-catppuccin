@@ -62,7 +62,7 @@ Royal TS Interface Theme (not compatible with Royal TSX)
 <br/>
 
 1. Copy one of the below theme links:
-</br>
+
 <details>
     <summary>🌻 Latte</summary>
 
