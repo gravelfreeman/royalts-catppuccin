@@ -53,7 +53,7 @@ Royal TS Terminal Theme
 ###### [For further information, consult the RoyalTS manual.](https://docs.royalapps.com/r2023/royalts/user-interface/color-palettes.html)
 <br/>
 </blockquote>
-<br/><br/>
+<br/>
 
 Royal TS Interface Theme (not compatible with Royal TSX)
 <br/>
