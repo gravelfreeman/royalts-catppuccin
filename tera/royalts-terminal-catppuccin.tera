@@ -8,11 +8,6 @@ whiskers:
 ---
 
 {%- set palette = flavor.colors -%}
-{%- set app = "Royal TS" -%}
-{%- set authors = "github.com/grokdesigns, github.com/gravelfreeman" -%}
-################ Catppuccin for {{app}} ################
-# from {{authors}} #
-#########################################################
 
 {
   "userInterface": false,
