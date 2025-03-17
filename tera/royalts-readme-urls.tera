@@ -1,0 +1,17 @@
+---
+whiskers:
+    version: "2.0.0"
+    filename: "generated-themes/royalts-interface-urls.md"
+---
+{% for _, flavor in flavors -%}
+
+    {%- set palette = flavor.colors -%}
+
+<details>
+    <summary>{{ flavor.emoji}} {{ flavor.name}}</summary>
+
+```
+https://royalapps.com/colorscheme?CompactUserInterface=2&UseRoundedCorners=2&AccentColor=2&AccentBaseColor={{ palette.mauve.hex | upper }}&BackgroundP200={{ palette.mantle.hex | upper }}&BackgroundP100={{ palette.base.hex | upper }}&Background0={{ palette.base.hex | upper }}&BackgroundM100={{ palette.surface1.hex | upper }}&BackgroundM200={{ palette.surface0.hex | upper }}&Foreground100={{ palette.text.hex | upper }}&Foreground50={{ palette.overlay1.hex | upper }}&Foreground25={{ palette.overlay0.hex | upper }}&EditBackground0={{ palette.mantle.hex | upper }}&EditBackgroundM50={{ palette.surface1.hex | upper }}&EditBackgroundM100={{ palette.surface0.hex | upper }}&EditBackgroundM200={{ palette.surface1.hex | upper }}&EditBackgroundM300={{ palette.surface2.hex | upper }}&EditForeground100={{ palette.text.hex | upper }}&EditForeground50={{ palette.overlay1.hex | upper }}&EditForeground25={{ palette.overlay0.hex | upper }}&Line100={{ palette.surface2.hex | upper }}&Line50={{ palette.surface1.hex | upper }}&Line25={{ palette.surface2.hex | upper }}&LineGradient100C1={{ palette.base.hex | upper }}&LineGradient100C2={{ palette.overlay0.hex | upper }}&LineGradient50C1={{ palette.base.hex | upper }}&LineGradient50C2={{ palette.surface0.hex | upper }}&PrimaryBackgroundP100={{ palette.surface1.hex | upper }}&PrimaryBackground0={{ palette.mauve.hex | upper }}&PrimaryBackgroundM100={{ palette.mauve.hex | upper }}&PrimaryBackgroundM200={{ palette.mauve.hex | upper }}&PrimaryForeground100={{ palette.base.hex | upper }}&PrimaryForeground25={{ palette.base.hex | upper }}&SecondaryBackground0={{ palette.crust.hex | upper }}&SecondaryBackgroundM100={{ palette.mantle.hex | upper }}&SecondaryBackgroundM200={{ palette.surface0.hex | upper }}&SecondaryForeground100={{ palette.text.hex | upper }}&SecondaryForeground25={{ palette.overlay1.hex | upper }}&Red={{ palette.text.hex | upper }}&Green={{ palette.text.hex | upper }}&Blue={{ palette.mauve.hex | upper }}&Yellow={{ palette.text.hex | upper }}&Black={{ palette.text.hex | upper }}&White={{ palette.mantle.hex | upper }}&Gray={{ palette.text.hex | upper }}
+```
+</details>
+{% endfor %}
