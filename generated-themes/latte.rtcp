@@ -1,0 +1,111 @@
+################ Catppuccin for Royal TS ################
+# from github.com/grokdesigns, github.com/gravelfreeman #
+#########################################################
+
+{
+  "userInterface": false,
+  "terminal": true,
+  "colors": [
+    {
+      "name": "Foreground",
+      "color": "#4c4f69",
+      "terminalMapping": "foreground"
+    },
+    {
+      "name": "Background",
+      "color": "#eff1f5",
+      "terminalMapping": "background"
+    },
+    {
+      "name": "Cursor Background",
+      "color": "#179299",
+      "terminalMapping": "cursorBackground"
+    },
+    {
+      "name": "Cursor Foreground",
+      "color": "#eff1f5",
+      "terminalMapping": "cursorForeground"
+    },
+    {
+      "name": "Black",
+      "color": "#eff1f5",
+      "terminalMapping": "ansiBlack"
+    },
+    {
+      "name": "Red",
+      "color": "#d20f39",
+      "terminalMapping": "ansiRed"
+    },
+    {
+      "name": "Green",
+      "color": "#40a02b",
+      "terminalMapping": "ansiGreen"
+    },
+    {
+      "name": "Yellow",
+      "color": "#df8e1d",
+      "terminalMapping": "ansiYellow"
+    },
+    {
+      "name": "Blue",
+      "color": "#1e66f5",
+      "terminalMapping": "ansiBlue"
+    },
+    {
+      "name": "Magenta",
+      "color": "#8839ef",
+      "terminalMapping": "ansiMagenta"
+    },
+    {
+      "name": "Cyan",
+      "color": "#04a5e5",
+      "terminalMapping": "ansiCyan"
+    },
+    {
+      "name": "White",
+      "color": "#4c4f69",
+      "terminalMapping": "ansiWhite"
+    },
+    {
+      "name": "Bright Black",
+      "color": "#eff1f5",
+      "terminalMapping": "ansiBrightBlack"
+    },
+    {
+      "name": "Bright Red",
+      "color": "#e64553",
+      "terminalMapping": "ansiBrightRed"
+    },
+    {
+      "name": "Bright Green",
+      "color": "#179299",
+      "terminalMapping": "ansiBrightGreen"
+    },
+    {
+      "name": "Bright Yellow",
+      "color": "#fe640b",
+      "terminalMapping": "ansiBrightYellow"
+    },
+    {
+      "name": "Bright Blue",
+      "color": "#7287fd",
+      "terminalMapping": "ansiBrightBlue"
+    },
+    {
+      "name": "Bright Magenta",
+      "color": "#ea76cb",
+      "terminalMapping": "ansiBrightMagenta"
+    },
+    {
+      "name": "Bright Cyan",
+      "color": "#209fb5",
+      "terminalMapping": "ansiBrightCyan"
+    },
+    {
+      "name": "Bright White",
+      "color": "#4c4f69",
+      "terminalMapping": "ansiBrightWhite"
+    }
+  ],
+  "paletteName": "catppuccin-latte"
+}
