@@ -48,7 +48,7 @@ Royal TS/X Terminal Theme
 
 2. Click on Palette > Manage > Import
 
-3. Import corresponding *[catppuccin-latte.rtcp](/generated-themes/catppuccin-royalts-terminal-latte.rtcp)*, *[catppuccin-frappe.rtcp](/generated-themes/catppuccin-royalts-terminal-frappe.rtcp)*, *[catppuccin-macchiato.rtcp](/generated-themes/catppuccin-royalts-terminal-macchiato.rtcp)*, or *[catppuccin-mocha.rtcp](/generated-themes/catppuccin-royalts-terminal-mocha.rtcp)* color profile and press OK.
+3. Import corresponding *[terminal-latte.rtcp](/themes/terminal-latte.rtcp)*, *[terminal-frappe.rtcp](/themes/terminal-frappe.rtcp)*, *[terminal-macchiato.rtcp](/themes/terminal-macchiato.rtcp)*, or *[terminal-mocha.rtcp](/themes/terminal-mocha.rtcp)* color profile and press OK.
 
 ###### [For further information, consult the RoyalTS manual.](https://docs.royalapps.com/r2023/royalts/user-interface/color-palettes.html)
 <br/>
