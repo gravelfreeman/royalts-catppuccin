@@ -1,0 +1,12 @@
+---
+whiskers:
+  version: 2.5.1
+  matrix:
+    - flavor
+  filename: "themes/interface-{{flavor.identifier}}.txt"
+  hex_format: "#{{R}}{{G}}{{B}}{{Z}}"
+---
+
+Royal TS Interface Theme URL:
+
+https://royalapps.com/colorscheme?CompactUserInterface=2&UseRoundedCorners=2&AccentColor=2&AccentBaseColor={{ mauve.hex }}&BackgroundP200={{ mantle.hex }}&BackgroundP100={{ base.hex }}&Background0={{ base.hex }}&BackgroundM100={{ surface1.hex }}&BackgroundM200={{ surface0.hex }}&Foreground100={{ text.hex }}&Foreground50={{ overlay1.hex }}&Foreground25={{ overlay0.hex }}&EditBackground0={{ mantle.hex }}&EditBackgroundM50={{ surface1.hex }}&EditBackgroundM100={{ surface0.hex }}&EditBackgroundM200={{ surface1.hex }}&EditBackgroundM300={{ surface2.hex }}&EditForeground100={{ text.hex }}&EditForeground50={{ overlay1.hex }}&EditForeground25={{ overlay0.hex }}&Line100={{ surface2.hex }}&Line50={{ surface1.hex }}&Line25={{ surface2.hex }}&LineGradient100C1={{ base.hex }}&LineGradient100C2={{ overlay0.hex }}&LineGradient50C1={{ base.hex }}&LineGradient50C2={{ surface0.hex }}&PrimaryBackgroundP100={{ surface1.hex }}&PrimaryBackground0={{ mauve.hex }}&PrimaryBackgroundM100={{ mauve.hex }}&PrimaryBackgroundM200={{ mauve.hex }}&PrimaryForeground100={{ base.hex }}&PrimaryForeground25={{ base.hex }}&SecondaryBackground0={{ crust.hex }}&SecondaryBackgroundM100={{ mantle.hex }}&SecondaryBackgroundM200={{ surface0.hex }}&SecondaryForeground100={{ text.hex }}&SecondaryForeground25={{ overlay1.hex }}&Red={{ text.hex }}&Green={{ text.hex }}&Blue={{ mauve.hex }}&Yellow={{ text.hex }}&Black={{ text.hex }}&White={{ mantle.hex }}&Gray={{ text.hex }}
