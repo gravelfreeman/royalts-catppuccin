@@ -13,6 +13,6 @@ jobs:
         with:
           TOKEN: ${{ secrets.MIMIC_TOKEN }}                               #Token you saved as a secret. Do not change.
           REPOSITORY : 'royalts-catppuccin'                               #Repository the action is running on.
-          SOURCE : './generated-themes/royalts-interface-urls.md'         #File where you put changing content.
+          SOURCE : './themes/urls.md'         #File where you put changing content.
           TARGET : './README.md'                                          #Target file that will have content inserted.
           BRANCH: 'devgrokdesigns'                                                  #Branch containing your files.
